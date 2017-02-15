@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237786365794",
+    "project_id": "eternal-brand-158116"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237786365794:android:a7f059faa9bb460d",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237786365794-4nlm7tm3r9cmvuu74chknqvbkiur7hv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYo-2OWqje_ngGjiNR-Y7ospkUsUnqrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
